@@ -13,10 +13,35 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <h3>Installation :gem: </h3>
 <h4>Voting Dapp</h4>
 
-1. '''shell
-      $ git clone https://github.com/Aman-zishan/cmsDapp.git ''' 
+1. **clone the repository.**
 
+   ```shell
+   $git clone https://github.com/Aman-zishan/cmsDapp.git
 
+   ```
+2. **navigate to election folder.**
+
+   ```shell
+   $cd election
+
+   ```
+3. **install the dependencies.**
+
+   ```shell
+   $npm install
+
+   ```
+ 4. **Run the truffle.**
+
+   ```shell
+   $truffle migrate --reset
+
+   ```
+5. **Deploy!**
+    ```shell
+   $npm run deploy
+
+   ```
 
 
 
