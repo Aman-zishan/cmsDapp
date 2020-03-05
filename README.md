@@ -55,19 +55,19 @@ The aim is to make the system adopt paperless transactions and at the same time,
 2. <h4>Mark submission Dapp</h4> 
   
    
-   1. **:round_pushpin: navigate to maticdapp folder.**
+1. **:round_pushpin: navigate to maticdapp folder.**
 
    ```shell
    $cd maticdapp
 
    ```
-1. **:checkered_flag: install the dependencies.**
+2. **:checkered_flag: install the dependencies.**
 
    ```shell
    $npm install
 
    ```
- 3. **:construction: navigate to dapp-ui.**
+3. **:construction: navigate to dapp-ui.**
 
    ```shell
    $cd dapp-ui
