@@ -4,10 +4,15 @@ The aim is to make the system adopt paperless transactions and at the same time,
  <h3> Tech stack used: :octocat: </h3>
 
 <li>Ethereumjs</li>
+<li>Maticjs</li>
 <li>nodejs</li>
 <li>truffle</li>
 <li>ganache-cli</li>
 <li>solidity</li>
+
+<h3>Installation :laptop: </h3>
+<h4>Voting Dapp</h4>
+
 
 
 
