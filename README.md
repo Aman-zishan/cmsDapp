@@ -11,7 +11,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <li>solidity</li>
 
 
-1.<h4>Voting Dapp</h4>
+<h4>Voting Dapp</h4>
 
 ## Advantages of voting via blockchain
 <li>Transperency</li>
@@ -61,7 +61,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
    
   <h3>Installation :gem: </h3>
   
-2. <h4>Mark submission Dapp</h4> 
+<h4>Mark submission Dapp</h4> 
  We took this use case as there have been cases where marks have been tampered with after it has been published.For example inflation of marks just to increase the pass grades is a common issue.Since the data amount is huge we used matic so that this Dapp can be scaled since it is based on an adapted implementaton of plasma framework,we basically deployed our smart contract on Matic testnet :sparkles: 
    
 1. **:round_pushpin: navigate to maticdapp folder.**
