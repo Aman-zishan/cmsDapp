@@ -95,5 +95,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
     ```shell
    $npm run dev
    ```
-
+  ## DEMO
+   
+![](demo1.gif) 
 
