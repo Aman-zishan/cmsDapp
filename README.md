@@ -56,8 +56,8 @@ The aim is to make the system adopt paperless transactions and at the same time,
 
    ```
    ## DEMO
-   
-![](demo1.gif)
+  <p align="center"> 
+![](demo1.gif)</p>
    
   <h3>Installation :gem: </h3>
   
