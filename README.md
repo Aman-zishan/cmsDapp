@@ -10,7 +10,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <li>ganache-cli</li>
 <li>solidity</li>
 
-<h3>Installation :gem: </h3>
+
 1.<h4>Voting Dapp</h4>
 
 ## Advantages of voting via blockchain
@@ -18,6 +18,8 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <li>Security</li>
 <li>Anonymity</li>
 <li>Low processing time</li>
+
+<h3>Installation :gem: </h3>
 
 1. **:round_pushpin: clone the repository.**
 
