@@ -55,6 +55,9 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $npm run deploy
 
    ```
+   ##DEMO
+   
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/fbkEGNC7b6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
   <h3>Installation :gem: </h3>
   
