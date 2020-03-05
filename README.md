@@ -42,6 +42,36 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $npm run deploy
 
    ```
+   
+  <h3>Installation :gem: </h3>
+<h4>Mark submission Dapp</h4> 
+   
+   
+   
+   2. **navigate to maticdapp folder.**
 
+   ```shell
+   $cd maticdapp
+
+   ```
+3. **install the dependencies.**
+
+   ```shell
+   $npm install
+
+   ```
+ 4. **navigate to dapp-ui.**
+
+   ```shell
+   $cd dapp-ui
+
+   ```
+5. **install dependencies**
+    ```shell
+   $npm install
+6. **deploy**
+    ```shell
+   $npm run dev
+   ```
 
 
