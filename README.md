@@ -70,7 +70,13 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $cd maticdapp
 
    ```
-2. **:checkered_flag: install the dependencies.**
+2. **:construction: navigate to marksubmission.**
+
+   ```shell
+   $cd marksubmission
+
+   ```
+3. **:checkered_flag: install the dependencies.**
 
    ```shell
    $npm install
