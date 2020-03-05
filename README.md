@@ -13,7 +13,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 
 <h4>Voting Dapp</h4>
 
-## Advantages of voting via blockchain
+# Advantages of voting via blockchain
 <li>Transperency</li>
 <li>Security</li>
 <li>Anonymity</li>
