@@ -11,7 +11,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <li>solidity</li>
 
 <h3>Installation :gem: </h3>
-<h4>Voting Dapp</h4>
+1.<h4>Voting Dapp</h4>
 
 1. **:round_pushpin: clone the repository.**
 
