@@ -33,7 +33,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $npm install
 
    ```
- 4. **:diamonds: Run the truffle.**
+4. **:diamonds: Run the truffle.**
 
    ```shell
    #This command executes the smart contract sequentially and sets local blockchain network.(make sure ganache is running)
