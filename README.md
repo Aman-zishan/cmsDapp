@@ -55,8 +55,8 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $npm run deploy
 
    ```
-   ##DEMO
-<img href="demo1.gif"> 
+   ## DEMO
+![](demo.gif)
    
   <h3>Installation :gem: </h3>
   
