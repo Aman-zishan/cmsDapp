@@ -1,5 +1,5 @@
 # cmsDapp :sparkles:
-The aim is to make the system adopt paperless transactions and at the same time, maintain data integrity using blockchain. :heart_eyes:
+The aim is to make the system adopt paperless transactions and at the same time, maintain data integrity using blockchain.So we are trying to develop Dapp as a service :heart_eyes:
 
  <h3> Tech stack used: :octocat: </h3>
 
@@ -12,6 +12,8 @@ The aim is to make the system adopt paperless transactions and at the same time,
 
 <h3>Installation :gem: </h3>
 1.<h4>Voting Dapp</h4>
+
+## 
 
 1. **:round_pushpin: clone the repository.**
 
@@ -34,19 +36,24 @@ The aim is to make the system adopt paperless transactions and at the same time,
  4. **:diamonds: Run the truffle.**
 
    ```shell
+   #This command executes the smart contract sequentially and sets local blockchain network.(make sure ganache is running)
+   
    $truffle migrate --reset
 
    ```
 5. **:dart: Deploy!**
     ```shell
+    
+    #This command runs the client side application.
+    
    $npm run deploy
 
    ```
    
   <h3>Installation :gem: </h3>
-2.<h4>Mark submission Dapp</h4> 
-   
-   
+  
+2. <h4>Mark submission Dapp</h4> 
+  
    
    1. **:round_pushpin: navigate to maticdapp folder.**
 
