@@ -13,6 +13,8 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <h3>Installation :gem: </h3>
 <h4>Voting Dapp</h4>
 
+'git clone 
+
 
 
 
