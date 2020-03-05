@@ -10,7 +10,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <li>ganache-cli</li>
 <li>solidity</li>
 
-<h3>Installation :laptop: </h3>
+<h3>Installation :gem: </h3>
 <h4>Voting Dapp</h4>
 
 
