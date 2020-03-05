@@ -19,57 +19,57 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $git clone https://github.com/Aman-zishan/cmsDapp.git
 
    ```
-2. **navigate to election folder.**
+2. **:checkered_flag: navigate to election folder.**
 
    ```shell
    $cd election
 
    ```
-3. **install the dependencies.**
+3. **:construction: install the dependencies.**
 
    ```shell
    $npm install
 
    ```
- 4. **Run the truffle.**
+ 4. **:diamonds: Run the truffle.**
 
    ```shell
    $truffle migrate --reset
 
    ```
-5. **Deploy!**
+5. **:dart: Deploy!**
     ```shell
    $npm run deploy
 
    ```
    
   <h3>Installation :gem: </h3>
-<h4>Mark submission Dapp</h4> 
+2.<h4>Mark submission Dapp</h4> 
    
    
    
-   2. **navigate to maticdapp folder.**
+   1. **:round_pushpin: navigate to maticdapp folder.**
 
    ```shell
    $cd maticdapp
 
    ```
-3. **install the dependencies.**
+1. **:checkered_flag: install the dependencies.**
 
    ```shell
    $npm install
 
    ```
- 4. **navigate to dapp-ui.**
+ 3. **:construction: navigate to dapp-ui.**
 
    ```shell
    $cd dapp-ui
 
    ```
-5. **install dependencies**
+4. **:diamonds: install dependencies**
     ```shell
    $npm install
-6. **deploy**
+5. **:dart: deploy**
     ```shell
    $npm run dev
    ```
