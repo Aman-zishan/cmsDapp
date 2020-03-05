@@ -13,7 +13,11 @@ The aim is to make the system adopt paperless transactions and at the same time,
 <h3>Installation :gem: </h3>
 1.<h4>Voting Dapp</h4>
 
-## 
+## Advantages of voting via blockchain
+<li>Transperency</li>
+<li>Security</li>
+<li>Anonymity</li>
+<li>Low processing time</li>
 
 1. **:round_pushpin: clone the repository.**
 
@@ -53,7 +57,6 @@ The aim is to make the system adopt paperless transactions and at the same time,
   <h3>Installation :gem: </h3>
   
 2. <h4>Mark submission Dapp</h4> 
-  
    
 1. **:round_pushpin: navigate to maticdapp folder.**
 
@@ -76,7 +79,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 4. **:diamonds: install dependencies**
     ```shell
    $npm install
-5. **:dart: deploy**
+5. **:dart: deploy!**
     ```shell
    $npm run dev
    ```
