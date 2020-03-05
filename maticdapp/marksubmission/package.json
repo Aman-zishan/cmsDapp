@@ -1,0 +1,21 @@
+{
+  "name": "ethindia-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:ethereum": "ganache-cli -m 'layer post chase message demise fresh resource beyond bulb rose garden kite'",
+    "compile": "truffle compile",
+    "test": "truffle test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "truffle": "^5.1.15"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "nodemon": "^2.0.2",
+    "nuxt": "^2.11.0"
+  }
+}
