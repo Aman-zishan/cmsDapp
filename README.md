@@ -1,4 +1,4 @@
-# cmsDapp :sparkles:
+# CMS-Dapp :sparkles:
 The aim is to make the system adopt paperless transactions and at the same time, maintain data integrity using blockchain.So we are trying to develop Dapp as a service :heart_eyes:
 
  <h3> Tech stack used: :octocat: </h3>
