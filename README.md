@@ -3,6 +3,7 @@ The aim is to make the system adopt paperless transactions and at the same time,
 
  <h3> Tech stack used: :octocat: </h3>
 
+<li>Visual Code Studio</li>
 <li>Ethereumjs</li>
 <li>Maticjs</li>
 <li>nodejs</li>
