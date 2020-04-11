@@ -57,9 +57,9 @@ The aim is to make the system adopt paperless transactions and at the same time,
 
    ```
    ## DEMO
-   
+   <p align-"center">
 ![](demo1.gif) 
-   
+   </p>
   <h3>Installation :gem: </h3>
   
 ## Mark submission Dapp
@@ -97,6 +97,6 @@ The aim is to make the system adopt paperless transactions and at the same time,
    $npm run dev
    ```
   ## DEMO
-   
+  <p align-"center"> 
 ![](demo2.gif) 
-
+</p>
