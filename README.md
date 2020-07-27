@@ -1,4 +1,14 @@
 # CMS-Dapp :sparkles:
+<div align="center">
+ 
+[![Build Status](https://travis-ci.com/Aman-zishan/DocScanner.svg?branch=master)](https://travis-ci.com/Aman-zishan/DocScanner)
+[![GitHub issues](https://img.shields.io/github/issues/Aman-zishan/cmsDapp.svg)](https://GitHub.com/Aman-zishan/cmsDapp/issues/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Aman-zishan/cmsDapp/issues)
+[![GitHub license](https://img.shields.io/github/license/Aman-zishan/cmsDapp.svg)](https://github.com/Aman-zishan/cmsDapp/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/Aman-zishan/cmsDapp.svg?style=flat)](http://hits.dwyl.com/Aman-zishan/cmsDapp)
+
+</div>
+
 The aim is to make the system adopt paperless transactions and at the same time, maintain data integrity using blockchain.So we are trying to develop Dapp as a service :heart_eyes:
 
  <h3> Tech stack used: :octocat: </h3>
