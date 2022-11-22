@@ -16,6 +16,6 @@
   "dependencies": {
     "ganache-cli": "^6.9.1",
     "nodemon": "^2.0.2",
-    "nuxt": "^2.11.0"
+    "nuxt": "^2.15.8"
   }
 }
